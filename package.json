@@ -1,0 +1,13 @@
+{
+    "name": "LLSE-FakePlayer",
+    "version": "1.0.0",
+    "description": "",
+    "type": "commonjs",
+    "main": "./LLSE-FakePlayer/LLSE-FakePlayer.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

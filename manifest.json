@@ -1,0 +1,10 @@
+{
+    "entry": "E://TelluriumDev//Server//bedrock-server-1.21.60.10//mods//LLSE-FakePlayer//LLSE-FakePlayer.js",
+    "name": "LLSE-FakePlayer",
+    "type": "lse-nodejs",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-nodejs"
+        }
+    ]
+}
