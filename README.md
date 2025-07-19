@@ -1,6 +1,6 @@
 # LLSE-FakePlayer
 
-> A strong fake-player plugin for LiteLoaderBDS
+> A strong fake-player mod for LeviLamina
 
 ## 安装
 
