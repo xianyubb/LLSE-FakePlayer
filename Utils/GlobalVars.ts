@@ -1,9 +1,9 @@
 // Pre-defined paths and dirs
-export const _CONFIG_PATH = "./plugins/LLSE-FakePlayer/config.json"
-export const _FP_DATA_DIR = "./plugins/LLSE-FakePlayer/fpdata/"
-export const _FP_INVENTORY_DIR = "./plugins/LLSE-FakePlayer/fpinventorys/"
-export const _FP_PERMISSION_DIR = "./plugins/LLSE-FakePlayer/fppermissions/"
-export const _I18N_DIR = "./plugins/LLSE-FakePlayer/LangPack"
+export const _CONFIG_PATH = "./mods/LLSE-FakePlayer/config.json"
+export const _FP_DATA_DIR = "./mods/LLSE-FakePlayer/fpdata/"
+export const _FP_INVENTORY_DIR = "./mods/LLSE-FakePlayer/fpinventorys/"
+export const _FP_PERMISSION_DIR = "./mods/LLSE-FakePlayer/fppermissions/"
+export const _I18N_DIR = "./mods/LLSE-FakePlayer/LangPack"
 
 // Pre-defined global consts
 export const _DEFAULT_PLAYER_SELECT_SLOT = 0
